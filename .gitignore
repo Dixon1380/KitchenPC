@@ -1,7 +1,7 @@
 # Personal Files to Ignore #
 ############################
 admin_account.txt
-venv
+venv/
 
 # Compiled source #
 ###################
